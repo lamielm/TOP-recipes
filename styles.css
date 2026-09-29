@@ -1,0 +1,22 @@
+body {
+	background-color: #deb887;
+	color: #2b1b10;
+}
+
+.title {
+	display: block;
+	text-align: center;
+}
+
+.recipe-container {
+	padding: 0 30px;
+}
+
+a {
+	text-decoration: none;
+	color: #0b4222;
+}
+
+a:hover {
+	color: rgb(201, 16, 16);
+}
